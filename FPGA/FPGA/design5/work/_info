@@ -1,0 +1,133 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/5552filter/design2
+Efir_ri2
+Z0 w1632831293
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dE:/5552filter/design5
+Z6 8E:\5552filter\design5\FIR_RI2.vhd
+Z7 FE:\5552filter\design5\FIR_RI2.vhd
+l0
+L5
+V4j8S[?5jWVOUkf?gR_eZa3
+!s100 X9TB=`BN]9[Rc]I>laV>]1
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1632831659
+!i10b 1
+Z10 !s108 1632831659.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:\5552filter\design5\FIR_RI2.vhd|
+Z12 !s107 E:\5552filter\design5\FIR_RI2.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abehaivioral
+R1
+R2
+R3
+R4
+Z15 DEx4 work 7 fir_ri2 0 22 4j8S[?5jWVOUkf?gR_eZa3
+l63
+L21
+Vj7i`=PWJ?RAbz`YUHL2P13
+!s100 z3GWJQMZ?650UeXS=i3b`1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+En_bit_reg
+Z16 w1632739750
+R3
+R4
+R5
+Z17 8E:/5552filter/design5/N_bit_Reg.vhd
+Z18 FE:/5552filter/design5/N_bit_Reg.vhd
+l0
+L6
+VMd?cihVnd^7LJI?3^dg051
+!s100 R:>MHAa@56B<zZ7RE^m7;3
+R8
+32
+R9
+!i10b 1
+R10
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/5552filter/design5/N_bit_Reg.vhd|
+Z20 !s107 E:/5552filter/design5/N_bit_Reg.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R3
+R4
+DEx4 work 9 n_bit_reg 0 22 Md?cihVnd^7LJI?3^dg051
+l19
+L18
+VWQVVMoGKMc?Kim0M9n0923
+!s100 =6F[1N?JW<cU]C@MEjDVk0
+R8
+32
+R9
+!i10b 1
+R10
+R19
+R20
+!i113 1
+R13
+R14
+Etb_fir_ri2
+Z21 w1632829073
+Z22 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R3
+R4
+R5
+Z23 8E:\5552filter\design5\TB_FIR_RI2.vhd
+Z24 FE:\5552filter\design5\TB_FIR_RI2.vhd
+l0
+L8
+V8gKKO<7F<gJ]WIUlhUXk@2
+!s100 SB;NYUPi5z66FRMQoZ9nd3
+R8
+32
+R9
+!i10b 1
+R10
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:\5552filter\design5\TB_FIR_RI2.vhd|
+Z26 !s107 E:\5552filter\design5\TB_FIR_RI2.vhd|
+!i113 1
+R13
+R14
+Abehaivioral
+R22
+R3
+R4
+DEx4 work 10 tb_fir_ri2 0 22 8gKKO<7F<gJ]WIUlhUXk@2
+l32
+L10
+VJb6A?:X0EWlnOe?=jP6L[2
+!s100 b`I5j5k`Zc;K4gkfOfA0f0
+R8
+32
+R9
+!i10b 1
+R10
+R25
+R26
+!i113 1
+R13
+R14
