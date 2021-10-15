@@ -4,4 +4,5 @@ Code ADC_LED_VERIFIED_DE10_Lite, ADC_LED_VERIFIED_DE10_LUT, ADC_LED_VERIFIED_DE1
 The ADC_DAC2 folder contains the top level entity with no pin assignment and completed ADC,filter,DAC and serial USB design. However some unkown connection issue was found during testing.  
 The FPGA/FPGA folder contains some unfinished design element and previous filter attempts.  
 The FIR folder contained the complete fir filter that passes on the testbench fir_tb.vhd with mem.txt input waveforms.
+
 The uart folder contains codes related to the serial port and also includes testbench code.
