@@ -1,4 +1,4 @@
-The adc_dac folder contains the tested assembles design with pin assignment. The DE_Lite10.qpf is the top level project file and the top level vhd file is in the output folder as top.vhd. An adcdac.rar file is also provided in case any IP file is lost.  
+The adc_dac folder contains the tested assembles design with pin assignment. The DE_Lite10.qpf is the top level project file and the top level vhd file is in the output_files folder as top.vhd. An adcdac.rar file is also provided in case any IP file is lost.  
 
 Code ADC_platform_designer is built in 28/09/21 by Ran Li (22745811). This design has been verified by system console on Quartus Pro version.  
 
